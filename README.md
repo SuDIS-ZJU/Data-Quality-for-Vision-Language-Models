@@ -1,4 +1,4 @@
-# Data-centric Approaches to Boosting MLLMs: A Systematic Review
+# Data Quality Management for Large Vision Language Models: Issues, Techniques, and Prospects
 
 This repository contains the papers, datasets, and resources associated with the systematic review titled **"Data-centric Approaches to Boosting MLLMs (Multimodal Large Language Models): A Systematic Review."** The review focuses on exploring various data-centric strategies employed to enhance the performance, robustness, and safety of MLLMs across different domains.
 
