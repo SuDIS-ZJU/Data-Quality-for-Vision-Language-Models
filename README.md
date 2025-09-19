@@ -1,6 +1,9 @@
 # Awesome LVLM Data Quality [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repository contains the papers, datasets, and resources associated with the systematic review titled **"Data-centric Approaches to Boosting MLLMs (Multimodal Large Language Models): A Systematic Review."** The review focuses on exploring various data-centric strategies employed to enhance the performance, robustness, and safety of MLLMs across different domains.
+**"Data Quality in Large Vision-Language Models: An ARC Framework and Diagnostic Perspective"** (2025).  
+
+We aim to provide a **living handbook** for researchers and practitioners interested in the **data-centric development of Large Vision–Language Models (LVLMs)**.  
+The repository will be continuously updated with new references, datasets, and tools.
 
 ## Table of Contents
 - [Introduction](#introduction)
