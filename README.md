@@ -1,4 +1,4 @@
-# Data Quality Management for Large Vision Language Models: Issues, Techniques, and Prospects
+# Awesome LVLM Data Quality [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repository contains the papers, datasets, and resources associated with the systematic review titled **"Data-centric Approaches to Boosting MLLMs (Multimodal Large Language Models): A Systematic Review."** The review focuses on exploring various data-centric strategies employed to enhance the performance, robustness, and safety of MLLMs across different domains.
 
