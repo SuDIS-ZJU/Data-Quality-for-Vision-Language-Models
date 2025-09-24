@@ -31,8 +31,8 @@ Large vision–language models (LVLMs) have rapidly advanced multimodal reasonin
 
 **Goal of this repo.** Serve as a practical companion to the survey:
 - A clear **index of problems → methods → references**.
-- **Diagrams** (ARC & Diagnosis) for quick onboarding.
-- **Actionable checklists** and **paper digests** for engineers and researchers.
+- **Roadmap** (ARC & Diagnosis) for quick onboarding.
+- **Actionable handbook** and **paper digests** for engineers and researchers.
 
 > If you find missing papers or have better categorizations, feel free to send a PR!
 
