@@ -5,17 +5,23 @@
 We aim to provide a **living handbook** for researchers and practitioners interested in the **data-centric development of Large Vision–Language Models (LVLMs)**.  
 The repository will be continuously updated with new references, datasets, and tools.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Repository Structure](#repository-structure)
-- [Key Papers](#key-papers)
-- [Datasets](#datasets)
-- [Contributing](#contributing)
-- [License](#license)
+
+
+## 📌 Contents
+1. [Introduction](#introduction)
+2. [ARC Framework](#arc-framework)
+3. [Data Issues (11 representative issues)](#data-issues-11-representative-issues)
+4. [Diagnosis Framework](#diagnosis-framework)
+5. [Paper Map (Annotated Table)](#paper-map-annotated-table)
+6. [Summary: Trends & Future Directions](#summary-trends--future-directions)
+7. [Resources](#resources)
+8. [Contributing](#contributing)
 
 ## Introduction
 
-Multimodal Large Language Models (MLLMs) are emerging as powerful tools for handling complex tasks that involve both visual and textual information. However, their success heavily depends on the quality and diversity of the data used during training and fine-tuning. This repository collects papers and resources related to **data-centric approaches** that focus on optimizing, curating, and utilizing data to improve MLLM performance in various applications such as vision-language understanding, visual question answering, and safety-critical tasks.
+A living handbook accompanying our survey *Data Quality in LVLMs: An ARC Framework and Diagnostic Perspective*.  
+We focus on **data-centric** challenges and solutions for **Large Vision–Language Models (LVLMs)**, and maintain an evolving repository of papers, datasets, and tools.
+
 
 Our goal is to systematically review and categorize recent works that highlight data-centric methodologies for:
 - Improving model generalization
@@ -23,9 +29,11 @@ Our goal is to systematically review and categorize recent works that highlight 
 - Ensuring safety and fairness
 - Handling data noise and imbalance
 
-## Repository Structure
-
-📁 Data-centric-Approaches-MLLMs │ ├── 📁 papers/ # Folder containing the key papers reviewed │ ├── paper1.pdf │ ├── paper2.pdf │ └── ... │ ├── 📁 datasets/ # Links and references to relevant datasets │ ├── dataset1_info.md │ ├── dataset2_info.md │ └── ... │ ├── 📁 scripts/ # Any useful scripts for processing datasets or experiments │ └── process_data.py │ └── README.md # You are here!
+## ARC Framework
+**A**vailability — scale, coverage, accessibility (data layer)  
+**R**eliability — semantic fidelity, alignment, balance (semantic layer)  
+**C**redibility — trust, safety, privacy (application layer)  
+ARC provides both a **taxonomy** and a **diagnostic lens** to map symptoms → root causes → remedies.
 
 ## Key Papers
 
