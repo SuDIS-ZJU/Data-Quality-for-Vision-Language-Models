@@ -120,40 +120,5 @@ Add new rows at the end; keep numbering sequential. You can later re-order if ne
 
 
 
-### How to Contribute
 
-- 提交 Issue：提供论文题目、出版年份、所属问题 / 维度标签、简单一句话贡献  
-- 提交 PR：编辑 `papers/relevant-papers.md` 或补充图示 / 诊断 checklist  
-- 请遵循标签统一规范（例如 `[Availability]`, `[Reliability]`, `[Credibility]`）
-
-### License
-
-MIT for repository content (text, structure). Figures 保持其原始版权／许可。如无特别说明，按 CC BY 4.0。
-
-### Citation
-
-If you find this repository helpful, please refer to our corresponding survey (BibTeX to be added later).
-
-
-
-## 4. Relevant Papers
-
-> *Coming up soon.*  
-我们将准备一个按主题 / ARC 维度 / 方法类别索引的论文清单（Markdown 格式），每条带标签、摘要、BibTeX、链接。  
-
----
-
-### How to Contribute
-
-- 提交 Issue：提供论文题目、出版年份、所属问题 / 维度标签、简单一句话贡献  
-- 提交 PR：编辑 `papers/relevant-papers.md` 或补充图示 / 诊断 checklist  
-- 请遵循标签统一规范（例如 `[Availability]`, `[Reliability]`, `[Credibility]`）
-
-### License
-
-MIT for repository content (text, structure). Figures 保持其原始版权／许可。如无特别说明，按 CC BY 4.0。
-
-### Citation
-
-如果你觉得本仓库对你有帮助，请引用我们对应的 survey（BibTeX 稍后补充）。
 
