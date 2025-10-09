@@ -134,8 +134,6 @@ Add new rows at the end; keep numbering sequential. You can later re-order if ne
 | 32 | [DoGE: Domain Reweighting with Generalization Estimation](https://arxiv.org/abs/2310.15393) | 2024 | ICML | Domain Imbalance | Bi-level optimization to reweight domains based on generalization performance |
 | 33 | [Domain-Weighted Batch Sampling for Neural Dependency Parsing](https://aclanthology.org/2024.mwe-1.24/) | 2024 | arXiv | Domain Imbalance | Batch sampling strategy controlling in-domain vs. out-of-domain ratios |
 | 34 | [TiKMiX: Take Data Influence into Dynamic Mixture for Language Model Pre-training](https://arxiv.org/pdf/2508.17677v1) | 2025 | arXiv | Domain Imbalance | Dynamic adjustment of data mixture based on model’s evolving preferences |
-| No. | Reference | Pub.Year | Publication | Data Issues | Methods |
-|-----|-----------|----------|-------------|-------------|---------|
 | 35 | [Missing data imputation: focusing on single imputation](https://doi.org/10.21037/atm.2016.01.16) | 2016 | Annals of Translational Medicine | Format Errors | Statistical single imputation for missing data |
 | 36 | [AddrLLM: Address Rewriting via Large Language Model on Nationwide Logistics Data](https://arxiv.org/abs/2411.13584) | 2024 | arXiv | Format Errors | LLM-based address normalization on large-scale logistics data |
 | 37 | [Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications](https://arxiv.org/abs/2408.11878) | 2024 | arXiv | Format Errors | Harmonizing textual and chart-based financial data formats |
