@@ -66,7 +66,7 @@ Based on the ARC framework, we categorize **11 representative data issues** acro
 
 
 <p align="center">
-  <img src="Figures/issues.png" alt="Issues" width="760">
+  <img src="Figures/Issues.png" alt="Issues" width="760">
 </p>
 
 
@@ -77,7 +77,7 @@ This diagnostic framework translates the ARC taxonomy into a **step-by-step trou
 By linking observable symptoms (e.g., training failure, uneven accuracy, risky outputs) to specific data flaws, it helps practitioners **trace root causes** and select targeted remedies.
 
 <p align="center">
-  <img src="Figures/diagnosis.png" alt="diagnosis" width="800">
+  <img src="Figures/Diagnosis.png" alt="diagnosis" width="800">
 </p>
 
 
