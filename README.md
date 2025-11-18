@@ -285,7 +285,6 @@ If you find this repository helpful, please refer to our corresponding survey.
   publisher={Authorea}
 }
 
-}
 ```
 
 ++++
