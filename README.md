@@ -273,6 +273,19 @@ If you have found the relevant paper, feel free to contact us. You can submit an
 
 ### Citation
 
-If you find this repository helpful, please refer to our corresponding survey (BibTeX to be added later).
+If you find this repository helpful, please refer to our corresponding survey.
+
+
+```bibtex
+@article{yan2025data,
+  title={Data Quality Management for Large Vision-Language Models: Issues, Techniques, and Prospects},
+  author={Yan, Yichen and Yuan, Zhaoyi and Pan, Jiajun and Tang, Xiu and Yuan, Gongsheng and Gu, Xiaoling and Chen, Jinpeng and Wu, Sai and Chen, Ke and Song, Mingli and others},
+  journal={Authorea Preprints},
+  year={2025},
+  publisher={Authorea}
+}
+
+}
+```
 
 ++++
